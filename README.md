@@ -13,13 +13,13 @@ This is a simple Music Recommendation System built using Python. It combines bot
 3. Enter a user ID and a known song name to see recommendations.
 
 ## Files
-music_recommender.py – Recommendation engine logic
+`music_recommender.py` – Recommendation engine logic
 
-gui.py – Tkinter GUI for user interaction
+`gui.py` – Tkinter GUI for user interaction
 
-music_data.csv – Sample user-song interaction data
+`music_data.csv` – Sample user-song interaction data
 
-requirements.txt – Python dependencies
+`requirements.txt` – Python dependencies
 
 README.md – Project overview and usage
 ---
